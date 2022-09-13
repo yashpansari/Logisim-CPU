@@ -1,1 +1,1 @@
-Fully functioning pipelined CPU built using circuits designed in Logisim. This code was written in response to a project assignment in CS61B at Berkeley but is published here for recruiters and employers, not future students.
+Fully functioning pipelined CPU built using circuits designed in Logisim. This code was written in response to a project assignment in the computer architecture class at Berkeley but is published here for recruiters and employers, not future students.
